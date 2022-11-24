@@ -1,0 +1,2 @@
+# minimal
+test deploy digitalOcean
